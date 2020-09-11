@@ -1,4 +1,4 @@
 # Informatik_AlexL
 
-##Python
+## Python
 Programs written during my school years 10th to 12th grade
