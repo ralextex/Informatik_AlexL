@@ -1,6 +1,6 @@
 from random import randint
 
-N=1000000000
+N=100000
 
 counta=0
 countb=0
